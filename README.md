@@ -10,7 +10,7 @@ AtliQ Hardwares sells computers and accessories across multiple markets and cust
 
 ## 📁 Reports Included
 
-All reports are available in the `/reports` folder.
+All reports are available 
 
 | Report Name | Description |
 | :--- | :--- |
