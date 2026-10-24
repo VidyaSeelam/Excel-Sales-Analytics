@@ -1,7 +1,7 @@
 # AtliQ Hardware - Excel Sales & Finance Analytics
 
 ## Overview
-AtliQ Hardware is a leading computer hardware manufacturer with operations across multiple markets. This project provides an end-to-end Sales and Finance Analytics solution built in **Microsoft Excel** as part of the **Codebasics Resume Project Challenge**.
+AtliQ Hardware is a leading computer hardware manufacturer with operations across multiple markets. This project provides an end-to-end Sales and Finance Analytics solution built in **Microsoft Excel** 
 
 The objective was to build executive-level reports to track business performance and support data-driven decision making.
 
